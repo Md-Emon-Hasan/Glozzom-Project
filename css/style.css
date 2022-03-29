@@ -1,0 +1,110 @@
+
+/******
+ Home
+******/
+
+/** Carousel **/
+
+.xyz{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: rgba(0,0,0,0.5);
+}
+
+/** home section **/
+
+.started{
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../img/1.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+/** lightbox **/
+
+.lightbox{
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../img/4.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+/** Newsletter **/
+
+.newsletter{
+	background-color: rgba(0,0,0,0.9);
+}
+
+/** Copright **/
+
+.copyright{
+	background-color: rgba(0,0,0,1);
+}
+
+/******
+ About Us
+******/
+
+/** Home **/
+
+.home1{
+	background :linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../img/6.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+}
+
+/** About **/
+
+.about img{
+	height: 350px;
+	width: 350px;
+}
+
+/******
+ Services
+******/
+
+/** Home **/
+
+.services2{
+	background :linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../img/5.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+}
+
+/******
+ Blog
+******/
+
+/** Home **/
+
+.blog3{
+	background :linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../img/2.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center ;
+}
+
+/******
+ Contact
+******/
+
+/** Home **/
+
+.home4{
+	background :linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../img/7.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+}
