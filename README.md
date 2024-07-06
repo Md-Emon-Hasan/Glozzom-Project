@@ -1,4 +1,3 @@
-```markdown
 # Glozzom Project
 
 Welcome to the **Glozzom Project** repository. This project showcases a responsive, modern website template designed for businesses and professionals.
@@ -192,4 +191,3 @@ Feel free to reach out for any questions, feedback, or collaboration opportuniti
 ---
 
 Feel free to customize further according to your preferences or additional project details.
-```
